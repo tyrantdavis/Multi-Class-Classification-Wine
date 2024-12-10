@@ -1,6 +1,6 @@
 # Building a Multinomial Logistic Regression - Wine
 
-Multi-Class Classification Model
+[Multi-Class Classification Model Demo](https://nbviewer.org/github/tyrantdavis/Multi-Class-Classification-Wine/blob/main/wine-classification.ipynb)
 
 ---
 
